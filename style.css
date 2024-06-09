@@ -45,7 +45,6 @@ body {
   #first_view {
     position: relative;
     height: 400px;
-    padding: 0;
   }
 
   .first_view_words {
@@ -478,6 +477,7 @@ body {
   #mission_first_view {
     position: relative;
     height: 500px;
+    padding: 0;
   }
 
   .mission_first_view_words {
